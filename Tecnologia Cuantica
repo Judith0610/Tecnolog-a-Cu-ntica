@@ -15,7 +15,7 @@ header {
   padding: 20px
 }
 
-nav{
+nav {
   background-color: rgb(66, 102, 153);
   padding: 10px;
   text-align: center;
