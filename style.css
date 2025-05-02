@@ -1,0 +1,65 @@
+.Titulo {
+  font-family: arial;
+  font-size: 40px;
+  text-align: center;
+  color: rgb(255,255,255);
+}
+
+header {
+  background-color: rgb(43, 59, 94);
+  padding: 20px
+}
+
+nav{
+  background-color: rgb(66, 102, 153);
+  padding: 10px;
+  text-align: center;
+}
+
+nav a {
+  color: rgb(0,0,0);
+  text-decoration: none;
+  font-family: verdana;
+  margin: 15px;
+}
+
+h2 {
+  font-family: arial;
+}
+
+p {
+  font-family: calibri;
+  font-size: 20px;
+}
+
+li {
+  font-family: calibri;
+  font-size: 18px;
+}
+
+.TC {
+  display: block;
+  margin: auto;
+}
+
+h3 {
+  font-family: Helvetica;
+  font-size: 15px;
+}
+
+.lang-switch {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      background-color: #007BFF;
+      color: white;
+      padding: 10px 15px;
+      border-radius: 5px;
+      text-decoration: none;
+      font-weight: bold;
+      font-family: sans-serif;
+    }
+
+    .lang-switch:hover {
+      background-color: #0056b3;
+    }
